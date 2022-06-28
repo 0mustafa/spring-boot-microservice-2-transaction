@@ -1,1 +1,1 @@
-web: java -Dspring.profile.active=prod -Dserver.port=$PORT -jar build/libs/*.jar
+web: java -Dspring.profile.active=prod -Dserver.port=$PORT -jar build/libs/spring-boot-microservice-2-transaction-0.0.1-SNAPSHOT.jar
