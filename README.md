@@ -1,4 +1,4 @@
-## Spring Boot MicroService 2 - Transaction Service
+## Spring Boot Microservice 2 - Transaction Service
 
 ### Endpoints
 
